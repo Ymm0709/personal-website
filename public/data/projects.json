@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Personal Portfolio Website",
+    "introduction": "A modern, responsive portfolio website built with Vue.js and Vite. Features dynamic routing, JSON-driven content, and a beautiful UI.",
+    "description": "This is a comprehensive personal portfolio website that showcases my projects, skills, and blog posts. It uses Vue.js for the frontend framework and Vite as the build tool. The website features a responsive design that works seamlessly on both desktop and mobile devices. All project and blog data is loaded dynamically from JSON files, making it easy to update content without modifying code.",
+    "screenshots": [
+      "/screenshots/portfolio-1.png",
+      "/screenshots/portfolio-2.png"
+    ],
+    "technologies": ["Vue.js", "Vite", "JavaScript", "HTML", "CSS", "Vue Router"],
+    "contribution": "Sole developer - Designed and implemented all features including navigation, routing, dynamic content loading, and responsive design.",
+    "githubUrl": "https://github.com/yourusername/personal-portfolio",
+    "demoUrl": "https://yourportfolio.vercel.app"
+  },
+  {
+    "id": 2,
+    "name": "Task Management App",
+    "introduction": "A full-featured task management application with drag-and-drop functionality and real-time updates.",
+    "description": "A comprehensive task management application that allows users to create, organize, and track their tasks. Features include drag-and-drop task reordering, task categories, due dates, and priority levels. The app uses local storage to persist data and provides a clean, intuitive user interface.",
+    "screenshots": [
+      "/screenshots/taskapp-1.png",
+      "/screenshots/taskapp-2.png"
+    ],
+    "technologies": ["Vue.js", "JavaScript", "CSS", "Local Storage API"],
+    "contribution": "Lead developer - Implemented core functionality, UI/UX design, and state management.",
+    "githubUrl": "https://github.com/yourusername/task-manager",
+    "demoUrl": "https://taskmanager.vercel.app"
+  },
+  {
+    "id": 3,
+    "name": "Weather Dashboard",
+    "introduction": "A beautiful weather dashboard that displays current conditions and forecasts using a weather API.",
+    "description": "An interactive weather dashboard that fetches real-time weather data from an external API. Users can search for weather information by city name. The dashboard displays current temperature, humidity, wind speed, and a 5-day forecast. Features a responsive design with beautiful weather icons and animations.",
+    "screenshots": [
+      "/screenshots/weather-1.png"
+    ],
+    "technologies": ["Vue.js", "JavaScript", "API Integration", "CSS", "Axios"],
+    "contribution": "Full-stack developer - Integrated weather API, designed UI components, and implemented search functionality.",
+    "githubUrl": "https://github.com/yourusername/weather-dashboard",
+    "demoUrl": "https://weather-dashboard.vercel.app"
+  },
+  {
+    "id": 4,
+    "name": "E-Commerce Product Page",
+    "introduction": "A modern e-commerce product page with image gallery, product variants, and shopping cart functionality.",
+    "description": "A fully functional e-commerce product page featuring an image gallery with zoom functionality, product variant selection (size, color), quantity selector, and add-to-cart functionality. The page includes product reviews, related products, and a responsive design optimized for mobile shopping.",
+    "screenshots": [
+      "/screenshots/ecommerce-1.png",
+      "/screenshots/ecommerce-2.png"
+    ],
+    "technologies": ["Vue.js", "JavaScript", "CSS", "Vuex"],
+    "contribution": "Frontend developer - Built product page components, implemented cart functionality, and designed responsive layouts.",
+    "githubUrl": "https://github.com/yourusername/ecommerce-product",
+    "demoUrl": "https://ecommerce-product.vercel.app"
+  }
+]
+
