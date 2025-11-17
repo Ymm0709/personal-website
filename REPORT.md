@@ -269,4 +269,4 @@ personal-website-development/
 
 ## Deployment
 
-- **GitHub Pages**: Deploy static files from dist folder
+- **GitHub Pages：从 dist 文件夹部署静态文件
